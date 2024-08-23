@@ -1,0 +1,72 @@
+
+/* .para {
+    text-align: justify;
+    font-size: 20px;
+    
+} */
+/* .para::first-letter{
+    font-size: 200%;
+    color: chocolate;
+    text-transform:lowercase;
+} */
+
+
+/* 
+.para::first-line{
+    color: darkcyan;
+    font-size: 300%;
+    text-transform: uppercase;
+} */
+
+
+/* #link{
+    text-decoration: none;
+    color: yellowgreen;
+} */
+
+
+/* .container {
+    width: 500px;
+    height: 400px;
+    background-color: burlywood;
+    border: 3px solid black;
+}
+
+.container:hover{
+ 
+    background-color: blueviolet;
+
+    border: 3px solid yellowgreen;
+    width: 200px;
+    height: 200px;
+
+
+} */
+/* #form{
+
+
+border-left: 5px solid pink;
+border-top: 5px solid yellowgreen;
+border-right: 5px solid black;
+border-bottom: 5px solid blueviolet;
+background-color: greenyellow;
+color: brown;
+} */
+
+
+/* #button {
+    color: blue;
+    background-color: aquamarine;
+    border-radius: 10px;
+    /* border: 2px solid orangered ; */
+    border: 0px solid black;
+  
+}
+#button:hover{
+    color: chocolate;
+    background-color: cornsilk;
+     border: 1px solid red;
+    cursor: pointer;
+} */
+
+

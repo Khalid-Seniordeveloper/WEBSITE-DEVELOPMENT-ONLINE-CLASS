@@ -1,0 +1,42 @@
+/* th {
+
+
+    border: 3px solid black;
+    padding: 20px;
+    background-color: blueviolet;
+    color: yellow ;
+}
+td{
+    border: 2px solid black;
+    padding: 10px;
+    color: brown;
+    background-color: blue;
+}
+
+.data{
+    color: green;
+    background-color: aqua;
+}
+
+.container{
+text-align: center;
+align-items: center;
+border-collapse: collapse;
+border-spacing: 10px 17px;
+}
+ */
+
+
+
+
+button{
+    border: 0;
+    border-radius: 20px;
+    color: yellow;
+  background-color: purple;
+  padding: 10px 20px;
+}
+button:hover{
+    cursor: pointer;
+    
+}

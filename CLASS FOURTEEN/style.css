@@ -1,0 +1,98 @@
+/* .container {
+    
+width: 100%;
+height: 500px;
+border: 4px solid #000000;
+text-align: center;
+
+}
+
+#head{
+    text-align: left;
+}
+#head-two {
+    text-align: right;
+} */
+
+
+/* 
+#submit {
+    color: brown;
+    background-color: bisque;
+    border: 0px;
+    border-radius: 10px;
+    transition: .5s ;
+}
+#submit:hover{
+    color: burlywood;
+    background-color: brown;
+
+} */
+
+/* #para{
+    min-width: 40px;
+    max-width: 200px;
+} */
+
+/* #container {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+   padding-left: 40px;
+   padding-top: 20px;
+   padding-right: 20px;
+padding-bottom: 20px;
+
+
+
+padding:30px 20px  ;
+
+
+margin: 20px 0 0 30px;
+
+
+}
+#sub-container {
+    width: 100px ;
+    height: 100px;
+    background-color: blue;
+} */
+
+
+
+/* #button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    background-color: #32e3e3;
+    transition: .4s;
+    margin-left: 100px;
+}
+#button:hover{
+    color: #268787;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid black;
+    padding: 10px 15px;
+    
+} */
+
+/* 
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 200px;
+} */
+
+/* 
+#para {
+  
+    font-size: 50px;
+} */
+
+#container {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}

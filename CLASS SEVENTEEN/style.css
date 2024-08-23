@@ -1,0 +1,11 @@
+button{
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 40px;
+    background-color: purple;
+
+}
+.icon{
+    font-size: 50px;
+    color: yellow;
+}
