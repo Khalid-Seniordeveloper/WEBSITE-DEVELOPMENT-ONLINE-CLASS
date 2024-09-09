@@ -1,0 +1,200 @@
+html{
+    font-size: 62.5%;
+}
+body{
+background-color: black;
+}
+
+
+.container{
+ 
+    width: 100%;
+    height: 10rem;
+    background-color: black;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    
+}
+.logo{
+    width: 12rem;
+
+}
+#navbar li{
+
+    list-style-type: none;
+    color: white;
+    font-size: 1.6rem;
+
+}
+
+#navbar ul{
+    display: flex;
+    gap: 5rem;
+
+
+}
+
+#get {
+    border: 1px solid white;
+    padding: 1.5rem 2rem;
+    background-color: black;
+    color: white;
+   border-radius: 3rem;
+}
+#order {
+    background-color: red;
+    color: white;
+    border: 0;
+    border-radius: 3rem;
+    padding: 1.5rem 2rem;
+}
+.button {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+#navbar li:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.icon {
+    color: red;
+    border-radius: 100%;
+    background-color: white;
+    padding: 0.7rem;
+}
+.crousel{
+    width: 100%;
+}
+.head{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+.name {
+    font-size: 3.7rem;
+}
+.para{
+    color: #b3b3b3;
+    text-align: center;
+    font-size: 2rem;
+}
+#section-one{
+    margin-top:8rem;
+    display: flex;
+   justify-content: center;
+   gap : 6rem; 
+   align-items: center;
+}
+.s-1{
+    background-color: white;
+    width: 25rem;
+}
+.button-one {
+    border: 1px solid white;
+    background-color: black;
+    padding: 1.5rem 2rem;
+    color: white;
+    border-radius: 3rem;
+}
+.section-buttons{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap : 18.5rem; 
+}
+.section-two{
+    width: 100%;
+    height: 120rem;
+    background-color: #0f0f0f;
+    margin-top:8rem;
+}
+
+.sub-section-two{
+width: 100%;
+height: 30rem;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+
+
+}
+
+.city{
+    color: red;
+    font-size: 1.6rem;
+}
+.light-color{
+    color: white;
+}
+.phone{
+    color: #b3b3b3;
+    font-size: 1.8rem;
+}
+.direction{
+    border: 1px solid white;
+    padding: 1.2rem 1.8rem;
+    background-color: transparent;
+    color: white;
+    border-radius: 3rem;
+}
+.direction i{
+    color: red ;
+    font-size: 1.4rem;
+    border-radius: 100%;
+    padding: 0.8rem 0.6rem;
+    background-color: white;
+}
+.direction:hover{
+    cursor: pointer;
+}
+.sub-section-two-1{
+    width: 35%;
+    height: 20rem;
+    display: flex;
+    justify-content : flex-start;
+    padding-left: 8rem;
+    margin-top: 7rem;
+    align-items: center;
+}
+.sub-section-two-2{
+    width: 40%;
+    height: 20rem;
+}
+
+.footer-container{
+margin-top: 40rem;
+    width: 100%;
+    height: 100rem;
+    background-color: #0f0f0f;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10rem;
+}
+.footer-container-one{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.footer-para{
+    color: #b3b3b3;
+    font-size: 1.5rem;
+
+}
+.footer-list li{
+    list-style-type: none;
+}
+.footer-container-two{
+    display: flex;
+ 
+}
+.footer-icon{
+    border-radius: 100%;
+    padding: 0.8rem;
+    background-color: red;
+    color: white;
+}
