@@ -1,0 +1,17 @@
+
+.card-container{
+    margin-top: 50px ;
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+     row-gap: 30px;
+    padding:0 30px;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.card-img{
+    width: 270px;
+    height: 200px;
+}

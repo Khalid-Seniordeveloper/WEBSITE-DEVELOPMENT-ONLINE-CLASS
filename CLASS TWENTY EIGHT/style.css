@@ -1,0 +1,182 @@
+html{
+    font-size: 62.5%;
+}
+
+.main-header{
+width: 100%;
+height: 8rem;
+background-color: #48afff;
+}
+.logo{
+    width: 20rem;
+}
+.bar{
+    color: white;
+    font-size: 2.8rem;
+}
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+
+}
+.sub-head{
+    display: flex;
+    align-items: center;
+   gap: 1rem;
+   margin-left: 5rem;
+}
+.button-head{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-right: 10rem;
+}
+.search{
+    width: 45rem;
+    padding: 1.5rem 1.5rem;
+    border-radius: 1rem;
+    border: 0;
+}
+.login{
+    padding: 1.4rem 1.4rem;
+    border: 0;
+    background-color: white;
+    color: #48afff;
+    border-radius: 0.5rem;
+}
+.register {
+    padding: 1.4rem 1.4rem;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    border-radius: 0.5rem;
+}
+.register:hover{
+    padding: 1.4rem 1.4rem;
+    border: 0;
+    background-color: white;
+    color: #48afff;
+    border-radius: 0.5rem;
+}
+@media (max-width : 1000px){
+    
+    .bar{
+        font-size: 2.2rem;
+    }
+    .logo{
+        font-size: 12rem;
+    }
+    .search{
+        width: 30rem;
+    }
+    .button-head{
+        margin-right: 20px;
+    }
+}
+
+@media(max-width : 942px){
+    .bar{
+        font-size: 2rem;
+    }
+    .logo{
+        font-size: 8rem;
+    }
+    .search{
+        width: 15rem;
+    }
+    .button-head{
+        margin-right: 27px;
+    }
+}
+@media (max-width : 800px){
+    .bar{
+        font-size: 1.8rem;
+    }
+    .logo{
+        font-size: 8rem;
+    }
+    .search{
+        display:none;
+    }
+    .button-head{
+        margin-right: 18px;
+    }
+}
+@media (max-width : 646px){
+  
+    .bar{
+        font-size: 1.8rem;
+    }
+    .logo{
+        font-size: 8rem;
+    }
+  
+    .button-head{
+        margin-right: 5rem;
+    }
+}
+
+@media (max-width : 600px){
+    .main-header{
+        display: flex;
+        justify-content: center;
+    }
+    .bar{
+        font-size: 1.4rem;
+    }
+    .logo{
+        width: 10rem;
+    }
+
+}
+@media (max-width : 510px){
+    .bar{
+        font-size: 2rem;
+    }
+    .logo{
+        width: 10rem;
+    }
+    .button-head{
+        margin-right: 4rem;
+    }
+    .login{
+        padding: 1rem;
+    }
+    .register{
+        padding: 1rem;
+    }
+
+.main-header{
+    gap: 3rem;
+}
+}
+@media (max-width : 371px){
+
+   
+    .main-header{
+        gap: 2rem;
+        height: 4rem;
+    }
+    .login{
+        padding: 0.6rem;
+    }
+    .register{
+        padding: 0.6rem;
+    }
+    .button-head{
+        gap: 0.3rem;
+    }
+    .bar{
+        font-size: 1rem;
+    }
+    .logo{
+        width: 8rem;
+    }
+
+    .register:hover{
+        padding: 0.6rem;
+
+    }
+}
